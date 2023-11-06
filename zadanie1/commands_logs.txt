@@ -1,0 +1,6 @@
+mkdir 
+cd 
+cd ..
+touch
+nano
+touch user{1..207}.txt
